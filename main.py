@@ -6,7 +6,7 @@ import PyPDF4
 from io import BytesIO
 import re
 import pandas as pd
-from pyresparser import ResumeParser
+
 
 
 
